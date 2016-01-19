@@ -1,0 +1,32 @@
+{
+  "name": "es6-viewpoint",
+  "description": "Get width and height of browser viewpoint",
+  "url": "https://github.com/nickeljew/es6-viewpoint",
+  "homepage": "https://github.com/nickeljew/es6-viewpoint",
+  "keywords": [
+    "viewpoint"
+  ],
+  "author": "Nickel Jianhui Zhu <nickeljew@hotmail.com>",
+  "version": "0.1.0",
+  "license": "MIT",
+  "private": false,
+  "main": "lib/viewpoint",
+  "scripts": {},
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "dependencies": {},
+  "peerDependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.3.17",
+    "babel-preset-es2015": "^6.3.13",
+    "grunt": "^0.4.5",
+    "grunt-babel": "^6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickeljew/es6-viewpoint.git"
+  }
+}
