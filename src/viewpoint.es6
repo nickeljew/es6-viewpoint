@@ -7,6 +7,9 @@ class ViewPoint {
         this.colorDepth = 0
         this.pixelDepth = 0
 
+        if (typeof window === "undefined")
+            return
+
         if (window && window.screen) {
             this.width = window.screen.width
             this.height = window.screen.height
