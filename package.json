@@ -7,10 +7,10 @@
     "viewpoint"
   ],
   "author": "Nickel Jianhui Zhu <nickeljew@hotmail.com>",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "license": "MIT",
   "private": false,
-  "main": "lib/viewpoint",
+  "main": "lib/viewpoint.js",
   "scripts": {},
   "babel": {
     "presets": [
